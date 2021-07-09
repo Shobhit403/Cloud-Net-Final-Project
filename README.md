@@ -1,7 +1,7 @@
-# Cloud-Net-Final-Project
+# Cloud Net Final Project Steps
 Hopefully you had a great time and are now capable of applying what you learnt and deploy your own site as your final project.
 
-Steps
+# Steps
 
 •	Clone this repository.
 
